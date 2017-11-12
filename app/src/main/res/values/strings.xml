@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="add_1">Eastern Techno Solutions 1</string>
+    <string name="add_2">western Techno Solutions 2</string>
+    <string name="add_3">Northen Techno Solutions 3</string>
+    <string name="add_4">Southern Techno Solutions 4</string>
+    <string name="add_5">Eastern Techno Solutions 5</string>
+    <string name="add_6">Western Techno Solutions 6</string>
+</resources>
